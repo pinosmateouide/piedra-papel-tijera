@@ -20,7 +20,8 @@ print("========================\n")
 # Preguntar si acepta jugar
 aceptar = input("¿Aceptas jugar? (si/no): ").lower()
 if aceptar != "si":
-    print("¡Hasta luego!")
+    print(f"¡Nos vemos {nombre}! Vuelve cuando quieras jugar.")
+    exit()
     # Marcador inicial
 puntos_jugador = 0
 puntos_computadora = 0
