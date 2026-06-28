@@ -1,24 +1,39 @@
-# piedra-papel-tijera
-Juego Piedra Papel o Tijera - Lógica de Programación UIDE
+# Piedra, Papel o Tijera 🎮
 
-## Descripción
-Juego de Piedra, Papel o Tijera desarrollado en Python como parte del Trabajo Autónomo 2 de Lógica de Programación - UIDE.
+## Nombre del Proyecto
+El impacto de las nuevas tecnologías en la sociedad: 
+desarrollo y proyección de soluciones informáticas
 
-## Funcionalidades
-- El usuario ingresa su nombre
-- Elige el número de rondas
-- La computadora elige aleatoriamente
-- Marcador por rondas
-- Declaración de ganador final
+## Estudiante
+Uriel Mateo Pinos Saltos
 
-## Tecnologías usadas
+## Carrera
+Ingeniería en Inteligencia Artificial - UIDE
+
+## Objetivo del Sistema
+Entretener al usuario a través del juego Piedra, Papel 
+o Tijera, permitiéndole conocer las reglas claramente 
+y competir contra la computadora en múltiples rondas.
+
+## Descripción de Funcionalidades
+- El usuario ingresa su nombre personalizado
+- Se muestran las reglas del juego antes de comenzar
+- El usuario acepta o rechaza jugar
+- El usuario elige el número de rondas
+- La computadora elige aleatoriamente su jugada
+- Se muestra el marcador actualizado en cada ronda
+- Se declara un ganador final al terminar las rondas
+
+## Tecnologías Usadas
 - Python 3
 - Librería random
+- GitHub para control de versiones
 
-## Estructuras aplicadas
-- Condicionales (if, elif, else)
-- Operadores lógicos (AND)
-- Bucles (while)
+## Estructuras Aplicadas
+- Condicionales: if, elif, else
+- Operadores lógicos: AND
+- Bucles: while
+- Corrección de bug: exit()
 
-## Autor
-Mateo Pinos - Ingeniería en Inteligencia Artificial - UIDE
+## Fecha
+Junio 2026
